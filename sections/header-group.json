@@ -64,9 +64,9 @@
       "settings": {
         "enable_sticky": true,
         "hide_on_scroll": false,
-        "logo": "shopify://shop_images/ClariZen-removebg-preview.png",
-        "logo_max_width": 150,
-        "logo_mobile_max_width": 120,
+        "logo": "shopify://shop_images/download_-_2026-10-09T105729.501.png",
+        "logo_max_width": 70,
+        "logo_mobile_max_width": 50,
         "menu": "main-menu",
         "sidebar_menu": "",
         "secondary_menu": "",
